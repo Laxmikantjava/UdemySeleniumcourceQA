@@ -6,7 +6,7 @@ public class JavaScriptexec {
 		
 		// javascript dom can extract hidden element
 		//because selenium cannot identify hidden element
-		//Investigate the [roperties of object if have any hidden text
+		//Investigate the properties of object if have any hidden text
 
 	}
 
